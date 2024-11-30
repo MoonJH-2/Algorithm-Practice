@@ -3,4 +3,4 @@ venv/
 .idea/
 *iml
 
-token-classic
+.env
